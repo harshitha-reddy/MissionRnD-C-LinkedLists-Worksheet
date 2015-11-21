@@ -14,6 +14,7 @@ NOTES: For negative numbers ignore negative sign.
 #include <stdio.h>
 #include <malloc.h>
 
+
 struct node {
 	int num;
 	struct node *next;
