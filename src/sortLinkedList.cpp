@@ -19,5 +19,6 @@ struct node {
 };
 
 struct node * sortLinkedList(struct node *head) {
+
 	return NULL;
 }
